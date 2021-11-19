@@ -1,4 +1,3 @@
-print("This Program is made by Prakhar Jain.")
 n,m = map(int, input('Enter number of blocks and processes: ').split())
 
 block_size = []
